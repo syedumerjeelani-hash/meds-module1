@@ -1,0 +1,4 @@
+*.log
+*.vcd
+*.fsdb
+work/
