@@ -1,2 +1,3 @@
 Feature step 1
 Feature step 2
+Feature step 3
