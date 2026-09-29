@@ -1,1 +1,4 @@
+HEAD
 Line changed by Side A
+Line changed by Side B
+side-b
