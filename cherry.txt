@@ -1,1 +1,4 @@
+HEAD
 Line 1: Branch X was here
+Line 1: Branch Y was here instead
+branch-y
